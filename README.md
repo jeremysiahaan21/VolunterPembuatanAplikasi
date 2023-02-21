@@ -202,6 +202,7 @@ Berikut daftar Volunter yang diterima:
 
 ### J
 * Jasti Ohanna, [LinkedIn](https://www.linkedin.com/in/jasti-ohanna-267463218/).
+* Jeremy William Siahaan, [LinkedIn] (https://www.linkedin.com/in/jeremy-william-siahaan-67906021b/)
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
 * Jhonathan Oktavianus, [LinkedIn](https://www.linkedin.com/in/jhonathan-oktavianus-7852ab227/).
 * Jodi Putra Pratama,[GitHub](https://github.com/Jodiputra24).
